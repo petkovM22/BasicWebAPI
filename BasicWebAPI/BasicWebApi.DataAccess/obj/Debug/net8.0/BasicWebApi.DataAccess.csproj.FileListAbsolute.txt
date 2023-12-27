@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\bin\Debug\net8.0\BasicWebApi.DataAccess.deps.json
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\bin\Debug\net8.0\BasicWebApi.DataAccess.runtimeconfig.json
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\bin\Debug\net8.0\BasicWebApi.DataAccess.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\bin\Debug\net8.0\BasicWebApi.DataAccess.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\bin\Debug\net8.0\BasicWebApi.Domain.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\bin\Debug\net8.0\BasicWebApi.Domain.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\refint\BasicWebApi.DataAccess.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\BasicWebApi.DataAccess.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.DataAccess\obj\Debug\net8.0\ref\BasicWebApi.DataAccess.dll

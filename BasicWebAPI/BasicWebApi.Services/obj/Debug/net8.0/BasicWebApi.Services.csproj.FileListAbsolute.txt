@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\bin\Debug\net8.0\BasicWebApi.Services.deps.json
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\bin\Debug\net8.0\BasicWebApi.Services.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\bin\Debug\net8.0\BasicWebApi.Services.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\bin\Debug\net8.0\BasicWebApi.DataAccess.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\bin\Debug\net8.0\BasicWebApi.Domain.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\bin\Debug\net8.0\BasicWebApi.DataAccess.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\bin\Debug\net8.0\BasicWebApi.Domain.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.csproj.CopyComplete
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\refint\BasicWebApi.Services.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\BasicWebApi.Services.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Services\obj\Debug\net8.0\ref\BasicWebApi.Services.dll

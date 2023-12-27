@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\bin\Debug\net8.0\BasicWebApi.Domain.deps.json
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\bin\Debug\net8.0\BasicWebApi.Domain.runtimeconfig.json
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\bin\Debug\net8.0\BasicWebApi.Domain.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\bin\Debug\net8.0\BasicWebApi.Domain.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\refint\BasicWebApi.Domain.dll
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.pdb
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\BasicWebApi.Domain.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder\BasicWebAPI\BasicWebApi.Domain\obj\Debug\net8.0\ref\BasicWebApi.Domain.dll
